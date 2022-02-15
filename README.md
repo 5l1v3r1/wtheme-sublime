@@ -6,7 +6,7 @@ My color configuration for Sublime text editor. Modded for .sh syntaxes only
 
 #### wuseman-sublime.tmTheme (Main)
 
-![Screenshot](.previews/wuseman-sublime.tmTheme.png)
+![Screenshot](.previews/wuseman-sublime.png)
 
 #### wuseman.tmTheme 
 
